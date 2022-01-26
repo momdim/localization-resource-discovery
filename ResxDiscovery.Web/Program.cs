@@ -17,6 +17,10 @@ builder.Services.Configure<RequestLocalizationOptions>(options =>
     options.RequestCultureProviders = new List<IRequestCultureProvider>()
     {
         new QueryStringRequestCultureProvider()
+        {
+            QueryStringKey = "culture",
+            UIQueryStringKey = "culture"
+        }
     };
 });
 builder.Services.AddLocalization();
