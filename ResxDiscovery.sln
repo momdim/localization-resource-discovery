@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResxDiscovery.Shared", "ResxDiscovery.Shared\ResxDiscovery.Shared.csproj", "{46011749-6EF1-4F42-A75E-1A0539219009}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResxDiscovery.Web", "ResxDiscovery.Web\ResxDiscovery.Web.csproj", "{C564D992-29BB-40C2-B938-614C42A12700}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46011749-6EF1-4F42-A75E-1A0539219009}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46011749-6EF1-4F42-A75E-1A0539219009}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46011749-6EF1-4F42-A75E-1A0539219009}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46011749-6EF1-4F42-A75E-1A0539219009}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C564D992-29BB-40C2-B938-614C42A12700}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C564D992-29BB-40C2-B938-614C42A12700}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C564D992-29BB-40C2-B938-614C42A12700}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C564D992-29BB-40C2-B938-614C42A12700}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
