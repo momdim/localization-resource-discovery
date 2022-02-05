@@ -2,6 +2,7 @@ using System.Globalization;
 using System.Net;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Localization;
+using ResxDiscovery.Shared;
 using ResxDiscovery.Shared.Resources;
 
 namespace ResxDiscovery.Web.Controllers;
